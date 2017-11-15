@@ -3,7 +3,7 @@ Portable server for python web development
 
 Goals of this project is
 * Test some issues of web development and deploy tasks with production web server - on your desktop
-* Base for building and shipping portable web aplications
+* Base for building and shipping portable web applications
 
 ## Binaries
 
@@ -15,3 +15,6 @@ Python Windows 86 binaries from [Python.org](https://www.python.org/downloads/wi
 
 * Apache
 * Python
+  * Bottle - demo wsgi application
+  * env - configured virtual enviroinment
+  * Python36 - python binaries
