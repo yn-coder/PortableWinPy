@@ -9,7 +9,7 @@ Goals of this project is
 
 Apache binaries was taken from [ApacheHaus](https://www.apachehaus.com/cgi-bin/download.plx) (httpd-2.4.28-x86-vc11)
 
-Python Windows 86 binaries from [Python.org](https://www.python.org/downloads/windows/) (python-3.6.3.exe)
+Python Windows x86 binaries from [Python.org](https://www.python.org/downloads/windows/) (python-3.6.3.exe)
 
 ## Folders
 
