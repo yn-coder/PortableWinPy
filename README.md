@@ -11,6 +11,8 @@ Version 0.0 (15.11.2017)
 
 Download the zip archive from [Sourceforge page](https://sourceforge.net/projects/portablewinpy/?source=navbar), unzip to any folder (on hard disk or to USB-stick), and run `run_apache.cmd`
 
+If all is ok, then open the `http://localhost:8080/` in your browser
+
 # Build from source
 
 ## Binaries
