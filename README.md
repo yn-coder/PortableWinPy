@@ -1,9 +1,11 @@
 # PortableWinPy
-Portable server for python web development
+Portable server for python web development and testing
+
+# Goals
 
 Goals of this project is
 * Run your Python web application locally
-* Test some issues of web development and deploy tasks with production web server - on your desktop
+* Test some issues of web development and deploy tasks with production web server - on your desktop. Test real web server static files serving configuration, paths and urls in your application
 * Base for building and shipping portable web applications
 
 Version 0.0 (15.11.2017)
