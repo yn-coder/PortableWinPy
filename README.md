@@ -5,13 +5,21 @@ Goals of this project is
 * Test some issues of web development and deploy tasks with production web server - on your desktop
 * Base for building and shipping portable web applications
 
+Version 0.0 (15.11.2017)
+
+# Installation
+
+Download the zip archive from [Sourceforge page](https://sourceforge.net/projects/portablewinpy/?source=navbar), unzip to any folder (on hard disk or to USB-stick), and run `run_apache.cmd`
+
+# Build from source
+
 ## Binaries
 
 Apache binaries was taken from [ApacheHaus](https://www.apachehaus.com/cgi-bin/download.plx) (httpd-2.4.28-x86-vc11)
 
 Python Windows x86 binaries from [Python.org](https://www.python.org/downloads/windows/) (python-3.6.3.exe)
 
-## Folders
+# Folders
 
 * Apache
 * Python
