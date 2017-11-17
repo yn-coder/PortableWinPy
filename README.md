@@ -2,6 +2,7 @@
 Portable server for python web development
 
 Goals of this project is
+* Run your Python web application locally
 * Test some issues of web development and deploy tasks with production web server - on your desktop
 * Base for building and shipping portable web applications
 
