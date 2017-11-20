@@ -119,4 +119,6 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/assets/django_demo/'
+
+STATIC_ROOT = '../../Apache/Apache24/htdocs/assets/django_demo'
