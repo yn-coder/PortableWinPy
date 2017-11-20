@@ -9,6 +9,7 @@ Goals of this project is
 * Base for building and shipping portable web applications
 
 Version 0.0 (15.11.2017)
+Version 0.1 (20.11.2017) - Django and assets
 
 # Installation
 
@@ -28,6 +29,7 @@ Python Windows x86 binaries from [Python.org](https://www.python.org/downloads/w
 
 * Apache
 * Python
-  * Bottle - demo wsgi application
+  * Bottle_Demo - demo wsgi application with Bottle
+  * Django_Demo - demo wsgi application with Django
   * env - configured virtual enviroinment
   * Python36 - python binaries
