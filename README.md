@@ -25,6 +25,8 @@ Python Windows x86 binaries from [Python.org](https://www.python.org/downloads/w
 # Folders
 
 * Apache
+  * Apache24
+    * conf/httpd.conf - Apache config with mod_wsgi and paths to web applications
 * Python
   * Bottle_Demo - demo wsgi application with Bottle
   * Django_Demo - demo wsgi application with Django
